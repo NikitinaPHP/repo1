@@ -26,7 +26,7 @@
 </div>
 </nav>
 
-<div class="mainslider-place git"></div>
+<div class="mainslider-place"></div>
 
 <div class="white-block">
   	<div class="white-block-conteiner">
